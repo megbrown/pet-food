@@ -1,4 +1,4 @@
-var dogFood = ( function(oldDogFood){
+var Products = ( function(oldDogFood){
 	var dogFoodArr = [];
 	var catFoodArr = [];
 
@@ -25,6 +25,5 @@ var dogFood = ( function(oldDogFood){
 	}
 
 	return oldDogFood;
-
 
 }());

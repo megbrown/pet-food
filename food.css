@@ -1,4 +1,29 @@
-div.card {
-	width: 25%;
+#dog-food-area {
+	border: 2px solid #000;
+	width: 45%;
+	float: left;
+	margin-left: 2%;
+}
+#cat-food-area {
+	border: 2px solid #000;
+	width: 45%;
+	float: right;
+	margin-right: 2%;
+}
+.breed {
 	display: inline;
+	padding-left: 50px;
+}
+.money {
+	color: green;
+}
+.type {
+	background-color: #f7f7f7;
+	text-align: center;
+}
+.padding {
+	padding-left: 40px;
+}
+h1 {
+	text-align: center;
 }
